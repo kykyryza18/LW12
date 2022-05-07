@@ -1,0 +1,10 @@
+D:\Proga vvpd\visio\LB12\bin\Debug\LB12.exe.config
+D:\Proga vvpd\visio\LB12\bin\Debug\LB12.exe
+D:\Proga vvpd\visio\LB12\bin\Debug\LB12.pdb
+D:\Proga vvpd\visio\LB12\obj\Debug\LB12.csproj.AssemblyReference.cache
+D:\Proga vvpd\visio\LB12\obj\Debug\LB12.Form1.resources
+D:\Proga vvpd\visio\LB12\obj\Debug\LB12.Properties.Resources.resources
+D:\Proga vvpd\visio\LB12\obj\Debug\LB12.csproj.GenerateResource.cache
+D:\Proga vvpd\visio\LB12\obj\Debug\LB12.csproj.CoreCompileInputs.cache
+D:\Proga vvpd\visio\LB12\obj\Debug\LB12.exe
+D:\Proga vvpd\visio\LB12\obj\Debug\LB12.pdb
